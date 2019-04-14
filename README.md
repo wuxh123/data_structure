@@ -14,10 +14,10 @@
     （1）计算阿克曼函数(AckMan)  
     （2）栈的输出序列(Gen、Perform)  
     （3）递归算法的演示  
-	汉诺塔的算法(Hanoi)  
-	解皇后问题的算法(Queen)  
-	解迷宫的算法(Maze)  
-	解背包问题的算法(Knap)  
+	汉诺塔的算法(Hanoi)  
+	解皇后问题的算法(Queen)  
+	解迷宫的算法(Maze)  
+	解背包问题的算法(Knap)  
        （4）模拟银行(BankSimulation)  
        （5）表达式求值(Exp_reduced)  
 ## 串的模式匹配
@@ -34,37 +34,37 @@
    （3）创建广义表的存储结构(Crt_Lists)  
 ## 二叉树
 	（1）遍历二叉树  
-	二叉树的线索化  
-	先序遍历(Pre_order)  
-	中序遍历(In_order)  
-	后序遍历(Post_order)  
+	二叉树的线索化  
+	先序遍历(Pre_order)  
+	中序遍历(In_order)  
+	后序遍历(Post_order)  
     (2) 按先序建二叉树(CrtBT_PreOdr) 
  (3) 线索二叉树
-	二叉树的线索化  
-	生成先序线索(前驱或后继) (Pre_thre)  
-	中序线索（前驱或后继) (In_thre)  
-	后序线索(前驱或后继) (Post_thre)  
-	遍历中序线索二叉树(Inorder_thlinked)  
-	中序线索树的插入(ins_lchild_inthr)和删除(del_lchild_inthr)结点  
+	二叉树的线索化  
+	生成先序线索(前驱或后继) (Pre_thre)  
+	中序线索（前驱或后继) (In_thre)  
+	后序线索(前驱或后继) (Post_thre)  
+	遍历中序线索二叉树(Inorder_thlinked)  
+	中序线索树的插入(ins_lchild_inthr)和删除(del_lchild_inthr)结点  
        （4）建赫夫曼树和求赫夫曼编码(HuffmanCoding)  
        （5）森林转化成二叉树(Forest2BT)  
        （6）二叉树转化成森林(BT2Forest)  
        （7）按表达式建树(ExpTree)并求值(CalExpTreeByPostOrderTrav)  
 ## 	图
    （1）图的遍历  
-	深度优先搜索(Travel_DFS)  
-	广度优先搜索(Travel_BFS)  
+	深度优先搜索(Travel_DFS)  
+	广度优先搜索(Travel_BFS)  
        （2）求有向图的强连通分量(Strong_comp)  
        （3）有向无环图的两个算法  
-	拓扑排序(Toposort)  
-	关键路径(Critical_path)  
+	拓扑排序(Toposort)  
+	关键路径(Critical_path)  
        （4）求最小生成树  
-	普里姆算法(Prim)  
-	克鲁斯卡尔算法(Kruscal)  
+	普里姆算法(Prim)  
+	克鲁斯卡尔算法(Kruscal)  
        （5）求关节点和重连通分量(Get_artical)  
        （6）求最短路径  
-	弗洛伊德算法(shortpath_Floyd)  
-	迪杰斯特拉算法(shortpath_DIJ)  
+	弗洛伊德算法(shortpath_Floyd)  
+	迪杰斯特拉算法(shortpath_DIJ)  
 ## 	存储管理
    （1）边界标识法 (Boundary_tag_method)  
        （2）伙伴系统 (Buddy_system)  
@@ -82,17 +82,17 @@
        （4）在 B+树上插入结点(Ins_PBTree) 和 删除结点(Del_PBTree)  
 ## 内部排序  
 	（1）简单排序法  
-	直接插入排序(Insert_sort)  
-	表插入排序(内含插入(Ins_Tsort)  重排(Arrange)两个算法)  
-	起泡排序(BubbleSort)  
-	简单选择排序(SelectSort)  
+	直接插入排序(Insert_sort)  
+	表插入排序(内含插入(Ins_Tsort)  重排(Arrange)两个算法)  
+	起泡排序(BubbleSort)  
+	简单选择排序(SelectSort)  
        （2）复杂排序法  
-	堆排序(HeapSort)  
-	快速排序(QuickSort)   
-	锦标赛排序(Tournament)   
+	堆排序(HeapSort)  
+	快速排序(QuickSort)   
+	锦标赛排序(Tournament)   
        （3）其他  
-	快速地址排序（QkAddrst）  
-	基数排序(RadixSort)  
+	快速地址排序（QkAddrst）  
+	基数排序(RadixSort)  
 ##	外部排序
 	（1）多路平衡归并排序(K-Merge)  
     （2）置换-选择排序(Repl_Selection)  
