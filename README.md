@@ -102,7 +102,7 @@ vscode 配置
 ![中文](https://github.com/wuxh123/data_structure/blob/master/images/1.png)
 
 2.vscode调试C++，百度很多设置的例子。
-![插件](https://github.com/wuxh123/data_structure/blob/master/images/2.png)
+![插件](https://github.com/wuxh123/data_structure/blob/master/images/2.PNG)
 
 3.编译调试
 ![编译](https://github.com/wuxh123/data_structure/blob/master/images/3.png)
