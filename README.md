@@ -97,3 +97,7 @@
 	（1）多路平衡归并排序(K-Merge)  
     （2）置换-选择排序(Repl_Selection)  
 
+vscode 配置
+1.编码设置
+
+2.vscode调试C++，百度很多设置的例子。
