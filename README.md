@@ -99,10 +99,10 @@
 
 vscode 配置
 1.编码设置
-https://github.com/wuxh123/data_structure/blob/master/images/1.png
+![中文](https://github.com/wuxh123/data_structure/blob/master/images/1.png)
 
 2.vscode调试C++，百度很多设置的例子。
-https://github.com/wuxh123/data_structure/blob/master/images/2.png
+![插件](https://github.com/wuxh123/data_structure/blob/master/images/2.png)
 
 3.编译调试
-https://github.com/wuxh123/data_structure/blob/master/images/3.png
+![编译](https://github.com/wuxh123/data_structure/blob/master/images/3.png)
